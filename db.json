@@ -1,0 +1,87 @@
+{
+  "bookings": [
+    {
+      "id": 1001,
+      "buffetName": "southfestival",
+      "bookedOn": "2023-02-10",
+      "emailId": "abcd@gmail.com",
+      "plateCount": 4
+    },
+    {
+      "id": 1004,
+      "buffetName": "eastfestival",
+      "bookedOn": "2023-08-20",
+      "emailId": "estilo@gmail.com",
+      "plateCount": 8
+    },
+    {
+      "id": 1005,
+      "buffetName": "chinafestival",
+      "bookedOn": "2023-05-22",
+      "emailId": "chingo@gmail.com",
+      "plateCount": 6
+    },
+    {
+      "buffetName": "southfestival",
+      "bookedOn": "2023-11-22",
+      "emailId": "momo@momo.com",
+      "plateCount": "2",
+      "id": 1006
+    },
+    {
+      "buffetName": "chinesefestival",
+      "bookedOn": "2023-11-14",
+      "emailId": "chingchong@momo.com",
+      "plateCount": "10",
+      "id": 1007
+    },
+    {
+      "buffetName": "westfestival",
+      "bookedOn": "2023-11-29",
+      "emailId": "misko@mis.com",
+      "plateCount": "3",
+      "id": 1008
+    },
+    {
+      "emailId": "jokey@joker.com",
+      "plateCount": "58",
+      "bookedOn": "2023-11-21",
+      "id": 1010
+    },
+    {
+      "buffetName": "chinesefestival",
+      "emailId": "gojo@gum.com",
+      "plateCount": "6",
+      "bookedOn": "2023-11-21",
+      "id": 1011
+    },
+    {
+      "buffetName": "westfestival",
+      "emailId": "update@update.com",
+      "plateCount": "9",
+      "bookedOn": "2023-11-24",
+      "id": 1013
+    },
+    {
+      "buffetName": "northfestival",
+      "bookedOn": "2023-12-07",
+      "emailId": "misko@misko.com",
+      "plateCount": "7",
+      "id": 1014
+    },
+    {
+      "buffetName": "westfestival",
+      "bookedOn": "2023-11-10",
+      "emailId": "momo@mom3o.com",
+      "plateCount": "3",
+      "id": 1015
+    },
+    {
+      "buffetName": "eastfestival",
+      "bookedOn": "2023-11-10",
+      "emailId": "test@nodemon.com",
+      "plateCount": "7",
+      "id": 1016
+    }
+  ]
+}
